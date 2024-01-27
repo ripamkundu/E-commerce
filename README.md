@@ -1,8 +1,8 @@
+# online-shopping-with-advanced-admin-page
+
 A PHP developer is responsible for writing server-side web application logic. PHP developers usually develop back-end components, connect the application with the other (often third-party) web services, and support the front-end developers by integrating their work with the application.
 
-# online-shopping-with-advanced-admin-page
-Updated version
-
+#Updated version
 
 online shopping system with both admin and user layouts.
 
